@@ -144,6 +144,10 @@ A IA entregou a tabela da semana. Ela encontrou um conflito real que eu não tin
 
 Print do resultado:
 
+![Resultado - parte 1](prints/image.png)
+
+![Resultado - parte 2](prints/parte2/image.png)
+
 ### Como Foi para Você
 
 Antes eu montava a semana de cabeça e descobria os conflitos em cima da hora. Com a delegação, em poucos minutos eu tive uma visão da semana inteira e enxerguei um choque de agenda no sábado. O mais importante foi manter o controle: a IA prepara, e eu decido o que muda na agenda.
