@@ -136,7 +136,18 @@ Antes de começar, mostre como pretende realizar essa tarefa.
 
 A IA (Claude) apresentou um plano de 5 passos: ler a agenda (somente leitura), ler as tarefas pendentes e atrasadas do TickTick, cruzar as duas fontes procurando choques de horário, montar uma tabela por dia marcando cada item como [agenda], [TickTick] ou [sugestão] e entregar o plano para eu conferir, sem alterar nada. Conferi que o plano respeitava os meus limites e aprovei antes de ela começar.
 
-Print do plano:
+Plano apresentado pela IA (copiado da conversa, antes da execução):
+
+```text
+PLANO DA IA
+1. Ler (somente leitura) os eventos do Google Calendar de 23 a 29/11.
+2. Ler as tarefas pendentes do TickTick: as dos próximos 7 dias e as atrasadas.
+3. Cruzar as duas fontes e apontar choques de horário e dias sobrecarregados.
+4. Montar uma tabela por dia, marcando cada item como [agenda], [TickTick] ou [sugestão].
+5. Entregar o plano para você conferir. Nada é alterado no Calendar nem no TickTick, a menos que você peça depois.
+```
+
+Minha resposta antes de a IA começar: "aprovado".
 
 ### O Resultado
 
