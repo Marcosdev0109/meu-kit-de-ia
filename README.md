@@ -54,34 +54,96 @@ Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal 
 
 ### Minha Tarefa Real
 
-_Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
+Planejar a minha semana. Sou pastor em tempo integral, cuido da gestão administrativa e financeira das congregações e estudo Ciência da Computação e o Carreira Tech. Toda semana eu perdia tempo cruzando a agenda do Google Calendar com as tarefas do TickTick e só descobria os conflitos em cima da hora. Essa tarefa se repete toda semana, por isso vale a pena delegar.
 
 ### Meus Atalhos
 
-_Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
+Adaptei dois modelos do kit: o **Template de Delegação** (`02-templates/03-delegacao.md`) e o **Prompt Preparar uma Reunião** (`01-prompts/05-preparar-reuniao.md`). O que fica fixo: o meu contexto, as fontes (Calendar e TickTick), os limites (nada é alterado sem a minha aprovação) e o formato da entrega. O que muda a cada uso: a semana ou a reunião, e o objetivo específico.
 
 ```text
-Cole aqui o seu primeiro atalho, já adaptado.
+ATALHO 1 - PLANO DA SEMANA
+
+OBJETIVO
+Montar o meu plano da semana de [data inicial] a [data final], com prioridades por dia e horários de estudo encaixados.
+
+CONTEXTO
+Sou pastor em tempo integral, faço gestão administrativa e financeira e estudo (faculdade e curso de tecnologia). Meu plano é de 2h35 de estudo por dia útil.
+
+RECURSOS
+Minha agenda do Google Calendar e minhas tarefas pendentes no TickTick (somente leitura).
+
+LIMITES
+Não criar, mover nem apagar eventos ou tarefas, e não enviar mensagens sem a minha aprovação. Separar o que é fato da agenda do que é sugestão da IA.
+
+SUCESSO
+Uma tabela por dia com compromissos fixos, até 3 prioridades e o bloco de estudo, mais uma lista de conflitos e de tarefas atrasadas, que eu confiro com a agenda.
+
+Antes de começar, mostre como pretende realizar essa tarefa.
 ```
 
 ```text
-Cole aqui o seu segundo atalho, já adaptado.
+ATALHO 2 - PREPARAR REUNIÃO DE LIDERANÇA
+
+Quero chegar preparado para [reunião de liderança / obreiros da congregação].
+
+OBJETIVO
+[Decisões que precisam sair da reunião]
+
+CONTEXTO
+Sou o pastor responsável. Participam [quem participa]. Assuntos em aberto: [pendências da última reunião].
+
+RECURSOS
+Minha agenda, minhas tarefas no TickTick e as anotações que eu colar aqui.
+
+LIMITES
+Não enviar convites, mensagens nem alterar compromissos sem a minha aprovação. Separar fatos de sugestões.
+
+SUCESSO
+Uma pauta de no máximo 5 itens, com tempo para cada um, que eu consiga usar sem reescrever.
+
+Organize a entrega em:
+1. contexto;
+2. pauta;
+3. pontos de atenção;
+4. dúvidas;
+5. próximos passos.
+
+Antes de executar ações externas, peça minha aprovação.
 ```
 
 ### Minha Delegação
 
 ```text
-Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, limites e sucesso.
+OBJETIVO
+Montar o meu plano da semana de 23 a 29/11, com prioridades por dia e horários de estudo encaixados.
+
+CONTEXTO
+Sou pastor em tempo integral, faço gestão administrativa e financeira e estudo Ciência da Computação e o Carreira Tech. Meu plano é de 2h35 de estudo por dia útil.
+
+RECURSOS
+Minha agenda do Google Calendar e minhas tarefas pendentes no TickTick.
+
+LIMITES
+Não criar, mover nem apagar eventos ou tarefas, e não enviar mensagens sem a minha aprovação. Separar o que é fato da agenda do que é sugestão da IA.
+
+SUCESSO
+Uma tabela por dia com compromissos fixos, até 3 prioridades e o bloco de estudo, mais uma lista de conflitos e de tarefas atrasadas, que eu confiro com a agenda.
+
+Antes de começar, mostre como pretende realizar essa tarefa.
 ```
 
 ### O Plano da IA
 
-_Cole o print do plano e conte o que você ajustou antes de a IA começar._
+A IA (Claude) apresentou um plano de 5 passos: ler a agenda (somente leitura), ler as tarefas pendentes e atrasadas do TickTick, cruzar as duas fontes procurando choques de horário, montar uma tabela por dia marcando cada item como [agenda], [TickTick] ou [sugestão] e entregar o plano para eu conferir, sem alterar nada. Conferi que o plano respeitava os meus limites e aprovei antes de ela começar.
+
+Print do plano:
 
 ### O Resultado
 
-_Cole o print do resultado e conte como você conferiu antes de usar._
+A IA entregou a tabela da semana. Ela encontrou um conflito real que eu não tinha visto: no sábado havia três eventos marcados no mesmo horário. Também listou tarefas atrasadas no TickTick e um lembrete diário que talvez não seja mais necessário. Conferi cada linha comparando com o Google Calendar e o TickTick. As sugestões da IA vieram separadas dos fatos, e nada foi alterado sem a minha aprovação. Os nomes de pessoas e números de cadastro foram retirados do print.
+
+Print do resultado:
 
 ### Como Foi para Você
 
-_Conte em poucas linhas o que mudou no seu dia a dia._
+Antes eu montava a semana de cabeça e descobria os conflitos em cima da hora. Com a delegação, em poucos minutos eu tive uma visão da semana inteira e enxerguei um choque de agenda no sábado. O mais importante foi manter o controle: a IA prepara, e eu decido o que muda na agenda.
